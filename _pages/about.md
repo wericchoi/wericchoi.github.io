@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 I'm a PhD student at UNC Chapel Hill. I work on questions in normative ethics
-and value theory (as it relates to population ethics) and AI ethics.
+and value theory (as they relate to population ethics) and AI ethics.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
