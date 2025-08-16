@@ -31,9 +31,9 @@ and value theory (as they relate to population ethics) and AI ethics.
 Recently, I have been interested in a position called *conservatism about the
 valuable* first coined by G.A. Cohen on which it can be rational to choose less
 value over more value. I have also recently been interested in performative
-predictions (especially of predictive models) and developing an account of
-*predictive wronging* on which someone can be wronged in virtue of the content
-of a prediction.
+predictions (especially of predictive models) and developing an account of what
+I call *predictive wronging* on which someone can be wronged in virtue of the
+content of a prediction.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
